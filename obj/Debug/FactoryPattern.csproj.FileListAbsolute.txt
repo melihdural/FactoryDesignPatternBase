@@ -1,0 +1,6 @@
+/Users/melihdural/RiderProjects/FactoryPattern/FactoryPattern/bin/Debug/FactoryPattern.exe
+/Users/melihdural/RiderProjects/FactoryPattern/FactoryPattern/bin/Debug/FactoryPattern.pdb
+/Users/melihdural/RiderProjects/FactoryPattern/FactoryPattern/obj/Debug/FactoryPattern.csproj.AssemblyReference.cache
+/Users/melihdural/RiderProjects/FactoryPattern/FactoryPattern/obj/Debug/FactoryPattern.csproj.CoreCompileInputs.cache
+/Users/melihdural/RiderProjects/FactoryPattern/FactoryPattern/obj/Debug/FactoryPattern.exe
+/Users/melihdural/RiderProjects/FactoryPattern/FactoryPattern/obj/Debug/FactoryPattern.pdb
